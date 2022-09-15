@@ -1,0 +1,17 @@
+Given the following chat log, write an impressive cover letter. The cover letter should be bold, impactful, and professional. Include details such as strengths and passions, but also address the company directly. 
+
+
+COACH: Hey there, what's your name?
+SEEKER: My name is Wile E Coyote.
+COACH: Nice to meet you, Wile! So, what company are you looking to work for?
+SEEKER: I want to work for the Eat the Roadrunner Foundation.
+COACH: Great! What job are you looking for?
+SEEKER: I want to eat the roadrunner.
+COACH: I see. Well, what are your strengths?
+SEEKER: I am very hungry, and motivated to catch the roadrunner. I excel at designing and setting traps, such as by using rockets, cages, and automated mallets.
+COACH: Those are great strengths! And what are you passionate about?
+SEEKER: ROADRUNNER FLESH!!!
+COACH: Okay, I think I have enough information to write an impressive cover letter.
+
+
+COVER LETTER:
